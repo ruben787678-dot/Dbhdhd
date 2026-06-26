@@ -1,6 +1,2 @@
 Flask
 gunicorn
-<<<<<<< HEAD
-=======
-
->>>>>>> f381007 (anun poxel)
